@@ -182,12 +182,50 @@ header {
     color: black;
     font-family: ManropeSB ;
     padding: 5%;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2), 0 0 10px rgba(255, 255, 255, 0.7);
+    
     
 }
-#h6main{
-    font-family:SoraB ;
-    padding: 10%;  
+
+@keyframes pulseMain {
+    0% {
+        text-shadow: none; 
+    }
+    50% {
+        text-shadow: 0 0 6px rgba(255, 255, 255, 0.5), 0 0 12px rgba(255, 255, 255, 0.3);
+    }
+    100% {
+        text-shadow: none; 
+    }
 }
+
+#h6main {
+    font-family: SoraB;
+    padding: 10%;
+    text-shadow: none;
+    animation: pulseMain 4s ease-in-out infinite; 
+}
+@keyframes pulseMain2 {
+    0% {
+        text-shadow: none;
+    }
+    50% {
+        text-shadow: 0 0 6px rgba(0, 0, 0, 0.5), 0 0 12px rgba(0, 0, 0, 0.3);
+    }
+    100% {
+        text-shadow: none;
+    }
+}
+
+#h6main2 {
+    font-family: SoraB;
+    padding: 10%;
+    color: black;
+    background-color: white;
+    text-shadow: none;
+    animation: pulseMain2 4s ease-in-out infinite; 
+}
+
 #pmain{
     font-family:WorkSansL;
     padding: 2%; 

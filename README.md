@@ -4,4 +4,4 @@ Este é o repositório do projeto **Cubic Coders**. Você pode acessar o site do
 
 Desenvolvimento by CUBIC CODERS -  https://www.cubiccoders.com
 
-[Visite o site no GitHub Pages]( https://cubiccoders.github.io/CubicCoders/)
+[Visite o site no GitHub Pages]( https://www.cubiccoders.com)

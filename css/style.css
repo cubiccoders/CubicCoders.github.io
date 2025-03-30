@@ -4,42 +4,6 @@
     padding:0;
 }
 
-
-@font-face {
-    font-family: NunitoSansL;
-    src: url(../letras/NunitoSans-Light.ttf);
-}
-
-@font-face {
-    font-family: NunitoSansR;
-    src: url(../letras/NunitoSans-Regular.ttf);
-}
-
-@font-face {
-    font-family: NunitoSansB;
-    src: url(../letras/NunitoSans-Bold.ttf);
-}
-
-@font-face {
-    font-family: NunitoSansEB;
-    src: url(../letras/NunitoSans-ExtraBold.ttf);
-}
-
-@font-face {
-    font-family: OpenSansL;
-    src: url(../letras/OpenSans-Light.ttf);
-}
-
-@font-face {
-    font-family: OpenSansR;
-    src: url(../letras/OpenSans-Regular.ttf);
-}
-
-@font-face {
-    font-family: OpenSansB;
-    src: url(../letras/OpenSans-Bold.ttf);
-}
-
 @font-face {
     font-family: ManropeSB;
     src: url(../letras/Manrope-SemiBold.otf
@@ -48,11 +12,6 @@
 @font-face {
     font-family: MulishR;
     src: url(../letras/Mulish-Regular.ttf);
-}
-
-@font-face {
-    font-family: OutfitB;
-    src: url(../letras/Outfit-Bold.ttf);
 }
 
 @font-face {

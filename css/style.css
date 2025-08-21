@@ -197,12 +197,13 @@ header {
     align-items: center;
     position: relative;
     display: inline-block;
+     width: 100%;
     
 }
 
 #main4 img {
     width: 100%; 
-    height: auto;    
+      
 }
 
 footer{
@@ -324,11 +325,11 @@ footer{
         padding: 2%;  
     }
     #main3{
-        padding-bottom: 70%;
+        padding-bottom: 10%;
     }
     #main4 img {
-        width: 100%; 
-        height:100px;  
+        width: 100%;
+        height: 100px;  
     }
         
     #pmidias1{
